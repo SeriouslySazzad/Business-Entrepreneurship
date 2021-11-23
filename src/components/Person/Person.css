@@ -1,0 +1,54 @@
+img {
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    border: 2px solid navajowhite;
+}
+
+.single-person {
+    background-color: rgb(34, 221, 159);
+    text-align: center;
+    border-radius: 20px;
+    border: 2px solid hotpink;
+}
+
+.person-details {
+    margin: 20px;
+    border-radius: 20px;
+    font-weight: 700;
+    color: black;
+    min-height: 350px;
+    
+}
+
+.name {
+    font-size: 20px;
+}
+
+.cart-btn {
+    padding: 8px 16px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    background-color: rgba(238, 10, 55, 0.979);
+    border: 2px solid indigo;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.cart-btn:hover {
+    background-color: yellowgreen;
+    color: lightgray;
+    color: #008080;
+    border-radius: 10px;
+}
+
+.social-icon {
+    margin-bottom: 10px;
+}
+
+
+
+.social-icon a i {
+    padding: 5px;
+}

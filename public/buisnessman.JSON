@@ -1,0 +1,182 @@
+[
+    {
+        "key": "BSDH01",
+        "name": "Bernard Arnault",
+        "img": "https://celebs.infoseemedia.com/wp-content/uploads/2021/08/Bernard-Arnault.png",
+        "role": "Chief Executive of LVMH",
+        "age": "72",
+        "country": "France",
+        "salary": 187645
+    },
+    {
+        "key": "BSDH02",
+        "name": "Elon Musk",
+        "img": "https://thumbnail.imgbin.com/13/2/4/imgbin-elon-musk-tesla-motors-life-between-buildings-spacex-paypal-musk-deer-8E0n9QxFgDXxj2HdP6pu3tvrm_t.jpg",
+        "role": "CEO of Tesla Motors",
+        "age": "50",
+        "country": "South Africa",
+        "salary": 287845
+    },
+    {
+        "key": "BSDH03",
+        "name": "Bill Gates",
+        "img": "https://icon2.cleanpng.com/20180202/lcq/kisspng-bill-gates-quotes-bill-gates-quotes-quotations-bill-gates-5a73fa045607a1.7024489915175500843524.jpg",
+        "role": "American Business Magnet",
+        "age": "65",
+        "country": "USA",
+        "salary": 356789
+    },
+    {
+        "key": "BSDH04",
+        "name": "Mark Zuckerberg",
+        "img": "https://cdn.imgbin.com/24/24/22/imgbin-mark-zuckerberg-3t6Gbn5wXAi5pxMuyjNXDSVrc.jpg",
+        "role": "CEO of Facebook",
+        "age": "37",
+        "country": "United States",
+        "salary": 896537
+    },
+    {
+        "key": "BSDH05",
+        "name": "Larry Ellison",
+        "img": "https://celebs.infoseemedia.com/wp-content/uploads/2021/08/Larry-Ellison.png",
+        "role": "American Businessman",
+        "age": "77",
+        "country": "United States",
+        "salary": 908734
+    },
+    {
+        "key": "BSDH06",
+        "name": "Larry Page",
+        "img": "https://celebs.infoseemedia.com/wp-content/uploads/2021/08/Larry-Page.png",
+        "role": "American Business Magnate",
+        "age": "48",
+        "country": "United States",
+        "salary": 678598
+    },
+    {
+        "key": "BSDH07",
+        "name": "Sergey Brin",
+        "img": "https://wallpaperaccess.com/full/3537405.jpg",
+        "role": "Internet entrepreneur",
+        "age": "47",
+        "country": "Russia",
+        "salary": 785437
+    },
+    {
+        "key": "BSDH08",
+        "name": "Warren Buffet",
+        "img": "https://e7.pngegg.com/pngimages/127/893/png-clipart-man-wearing-black-suit-jacket-warren-buffett-looking-up-celebrities-corporate.png",
+        "role": "CEO of Berkshire Hathaway",
+        "age": "91",
+        "country": "USA",
+        "salary": 909897
+    },
+    {
+        "key": "BSDH09",
+        "name": "Jeff Bezos",
+        "img": "https://1.bp.blogspot.com/-As_LJQ649u8/X50OMcNch6I/AAAAAAAAAdE/w_mshoJQ0Pk7UiAI1ieCmBMXiRpo9ZBzQCLcBGAsYHQ/s907/thumb_bezos.png",
+        "role": "American Entrepreneur",
+        "age": "57",
+        "country": "USA",
+        "salary": 456867
+    },
+    {
+        "key": "BSDH10",
+        "name": "Franc Bettencourt",
+        "img": "https://www.eyesonlife.org/Directory/Authors/France/Hauts_de_Seine/Neuilly_sur_Seine/Fran%C3%A7oise_Bettencourt_Meyers/Images/fran%C3%A7oise_bettencourt_meyers-005.png",
+        "role": "French Billionaire",
+        "age": "68",
+        "country": "France",
+        "salary": 356789
+    },
+    {
+        "key": "BSDH11",
+        "name": "Steve Ballmer",
+        "img": "http://www.blogcdn.com/www.joystiq.com/media/2013/08/ballmer.png",
+        "role": "American Businessman",
+        "age": "65",
+        "country": "United States",
+        "salary": 896537
+    },
+    {
+        "key": "BSDH12",
+        "name": "Mukesh Ambani",
+        "img": "https://freepikpsd.com/media/2019/10/Mukesh-Ambani-PNG-Images-Picture.png",
+        "role": "Chairman of Reliance",
+        "age": "65",
+        "country": "India",
+        "salary": 908734
+    },
+    {
+        "key": "BSDH13",
+        "name": "Zhong Shanshan",
+        "img": "https://mcmscache.epapr.in/post_images/website_326/post_22806491/full.png",
+        "role": "Founder of Nongfu",
+        "age": "48",
+        "country": "China",
+        "salary": 678598
+    },
+    {
+        "key": "BSDH14",
+        "name": "Amancio Ortega",
+        "img": "https://www.pngarts.com/files/12/Amancio-Ortega-PNG-Free-Download.png",
+        "role": "Chairman of Inditex",
+        "age": "77",
+        "country": "Spain",
+        "salary": 785437
+    },
+    {
+        "key": "BSDH15",
+        "name": "Carlos Slim Helu",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Carlos_Slim_Hel%C3%BA.jpg",
+        "role": "Investor and Philanthropist",
+        "age": "72",
+        "country": "Mexico",
+        "salary": 187645
+    },
+    {
+        "key": "BSDH16",
+        "name": "Jim Walton",
+        "img": "http://static1.bornrichimages.com/cdn2/500/500/91/c/wp-content/uploads/2014/08/jim1_thumb.png",
+        "role": "Founder of Walton",
+        "age": "75",
+        "country": "USA",
+        "salary": 287845
+    },
+    {
+        "key": "BSDH17",
+        "name": "Alice Walton",
+        "img": "https://237995-729345-1-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/02/sq-alice-Screen-Shot-2020-02-26-at-1.24.01-PM-1.jpg",
+        "role": "Heiress of Walmart",
+        "age": "71",
+        "country": "USA",
+        "salary": 356789
+    },
+    {
+        "key": "BSDH18",
+        "name": "Rob Walton",
+        "img": "https://alchetron.com/cdn/rob-walton-a1828c62-bb23-4b26-b6d5-4ab92f2a934-resize-750.jpeg",
+        "role": "Chairman of Walmart",
+        "age": "76",
+        "country": "United States",
+        "salary": 896537
+    },
+    {
+        "key": "BSDH19",
+        "name": "Phil Knight",
+        "img": "https://media.bizj.us/view/img/1871441/bloomberg-philknight-july2013*1200.png",
+        "role": "Chairman of Emirittus",
+        "age": "77",
+        "country": "United States",
+        "salary": 908734
+    },
+    {
+        "key": "BSDH20",
+        "name": "Michael Bloomberg",
+        "img": "https://static01.nyt.com/newsgraphics/2020/01/23/foreign-policy/5cd463f2a54288563128d897ccdfee49854f4c44/headshots/bloomberg.png",
+        "role": "Former Mayor of New York",
+        "age": "78",
+        "country": "United States",
+        "salary": 678598
+    }
+]
